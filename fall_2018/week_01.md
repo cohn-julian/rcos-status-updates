@@ -1,21 +1,18 @@
 ## Last Week's Accomplishments
-
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+* I learned about Vue.js and read through the javascript files for the frontend.
+* I read through the go files and learned about how data moves around
+* I learned how to make basic web servers with go
 
 ## This Week's Plan
-
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+* think about making a model using the historical data, the schedule, and shuttles location
+* read through docs
+* parse pdf
 
 ## Anything Blocking?
+How do I gather 1 week of data (I found out that there is 1 month of data in the db and where to find it)  
+How can we best display the times info to people (that's a frontend problem)
 
-> In this section, you can write about any blockers that you are having trouble in the project.
 
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
 
 ## Notes
 
